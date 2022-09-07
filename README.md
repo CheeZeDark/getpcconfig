@@ -1,0 +1,2 @@
+# getpcconfig
+GetPCConfig by CheeZeDark
