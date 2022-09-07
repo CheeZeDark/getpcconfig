@@ -1,2 +1,2 @@
 # getpcconfig
-GetPCConfig by CheeZeDark
+GetPCConfig by CheeZeDark(Language Python)
